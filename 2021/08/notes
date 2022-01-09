@@ -1,0 +1,10 @@
+0 contains 6 segments # abcefg
+1 contains 2 segments # cf
+2 contains 5 segments # acdeg
+3 contains 5 segments # acdfg
+4 contains 4 segments # bcdf
+5 contains 5 segments # abdfg
+6 contains 6 segments # abdefg
+7 contains 3 segments # acf
+8 contains 7 segments # abcdefg
+9 contains 6 segments # abcdfg
