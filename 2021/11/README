@@ -1,0 +1,3 @@
+If you had some troubles solving this problem, follow these 2 steps:
+1. Add 1 to each member
+2. Find which octupuses have more than 9, and make em explode(recursively)
